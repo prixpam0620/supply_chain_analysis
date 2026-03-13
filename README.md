@@ -1,6 +1,9 @@
 # supply_chain_analysis/Supply Chain Analysis Using Python
+Problem
+Supply chains often suffer from inventory imbalance, delayed shipments, and poor demand forecasting.
 
-This project focuses on analyzing a supply chain dataset to derive actionable business insights using Python. It covers multiple areas including
+This project focuses on analyzing a supply chain dataset to derive actionable business insights using Python.
+It covers multiple areas including
 -revenue analysis by location,
 -transportation mode optimization,
 -demand forecasting, and-inventory management.
@@ -69,18 +72,16 @@ Explore clustering for customer segmentation.
 
 Folder Structure
 
-├── data/
-│   └── supply_chain_data.csv
-├── notebooks/
-│   └── supply_chain_analysis.ipynb
-├── images/
-│   └── charts_and_graphs.png
-├── README.md
-└── requirements.txt
+supply-chain-analysis
+│
+├── data
+├── notebooks
+├── src
+├── visuals
+├── requirements.txt
+└── README.md
 
 How to Run
 Clone the repository
-
 Install dependencies using pip install -r requirements.txt
-
 Open the Jupyter notebook and run the cells
